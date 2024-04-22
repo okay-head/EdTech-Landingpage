@@ -16,7 +16,7 @@
 
 upcoming...
 
-- Payment integration with stripe 😭
+- Payment integration with stripe idk
 
 ## Install
 
